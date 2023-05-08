@@ -52,14 +52,25 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        
+        - title: Collaborator
+          company: CILVR Lab, NYU
+          company_url: 'https://wp.nyu.edu/cilvr/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Remote
+          date_start: '2022-01-09'
+          date_end: ''
           description: Taught electronic engineering and researched semiconductor physics.
+        
+        - title: Intern
+          company: LCS2, IIIT-D
+          company_url: 'https://www.lcs2.in/'
+          company_logo: org-x
+          location: New Delhi
+          date_start: '2020-01-09'
+          date_end: '2021-12-25'
+          description: Taught electronic engineering and researched semiconductor physics.
+          
     design:
       columns: '2'
   - block: accomplishments
