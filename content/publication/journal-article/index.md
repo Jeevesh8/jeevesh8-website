@@ -43,7 +43,7 @@ url_video: ""
 title: Can Unsupervised Knowledge Transfer from Social Discussions Help Argument
   Mining?
 doi: " https://doi.org/10.48550/arXiv.2203.12881"
-featured: false
+featured: true
 tags:
   - Source Themes
 projects: []
@@ -51,9 +51,10 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+  filename: featured.png
+date: 2015-09-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
