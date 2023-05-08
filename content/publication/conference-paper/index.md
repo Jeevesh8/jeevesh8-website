@@ -25,14 +25,14 @@ authors:
   - João Sedoc
   - Naomi Saphra
 author_notes: []
-publication: In *International Conference on Learning Representations*
+publication: In *International Conference on Learning Representations* 2023
 summary: We find a population of models that has two linearly disconnected
   clusters of models. The models in a single cluster are all linearly connected,
   and exhibit similar OOD behavior. Also, the clusters trap training
   trajectories.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *ICLR*
+publication_short: In *ICLR* 2023
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: Linear Connectivity Reveals Generalization Strategies
@@ -44,9 +44,9 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
