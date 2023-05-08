@@ -1,6 +1,6 @@
 ---
 title: Jeevesh Juneja
-role: Research Engineer
+role: Research Engineer @ saarthi.ai
 avatar_filename: avatar.jpg
 bio: My research focusses on optimization and generalization behavior of neural
   networks.
