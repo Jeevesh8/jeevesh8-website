@@ -8,7 +8,7 @@ abstract: "It is widely accepted in the mode connectivity literature that when
   of finetuned models have large barriers of increasing loss on the linear paths
   between them. On each task, we find distinct clusters of models which are
   linearly connected on the test loss surface, but are disconnected from models
-  outside the cluster -- models that occupy separate basins on the surface. By
+  outside the cluster - models that occupy separate basins on the surface. By
   measuring performance on specially-crafted diagnostic datasets, we find that
   these clusters correspond to different generalization strategies: one cluster
   behaves like a bag of words model under domain shift, while another cluster
