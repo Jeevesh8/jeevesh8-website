@@ -41,7 +41,7 @@ sections:
       items:
         - title: Research Engineer
           company: saarthi.ai
-          company_url: ''
+          company_url: 'https://saarthi.ai'
           company_logo: org-gc
           location: Bengaluru
           date_start: '2022-09-08'
